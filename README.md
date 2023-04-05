@@ -1,6 +1,0 @@
-# bashScripts
-
-
-bashscript synatxes
-
-
