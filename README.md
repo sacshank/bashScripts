@@ -1,2 +1,6 @@
 # bashScripts
+
+
 bashscript synatxes
+
+
